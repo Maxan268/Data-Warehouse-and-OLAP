@@ -9,4 +9,4 @@ Xây dựng kho dữ liệu và triển khai OLAP để phân tích điểm số
 Mục tiêu là tạo ra các bảng pivot và báo cáo hỗ trợ việc phân tích xu hướng điểm số, phân phối GPA theo môn học, khoa và thời gian.
 
 ## Final Project
-- Drive: https://drive.google.com/drive/folders/1OO_2OChNy1qzd7wiHB_VTxh2ejYY4RnT?usp=drive_link
+- Drive: [Final](https://drive.google.com/drive/folders/1OO_2OChNy1qzd7wiHB_VTxh2ejYY4RnT?usp=drive_link)
